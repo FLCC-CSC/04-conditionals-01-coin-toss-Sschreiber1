@@ -9,7 +9,7 @@
 ########## ENTER YER CODE BELOW THIS LINE ##########
 import random
 print("==== Coin Flipper ====")
-result = random.choice(["Heads", "Tails"])
+result = random.choice(["Heads","Tails"])
 print(result)
 
 
@@ -45,7 +45,7 @@ Tails
 '''
 
 1. What was the hardest part of completing this lab? 
-Making the output be able to make the result of the coin flip.
+Making the output be able to make the result of the coin flip, flip to tails.
 
 
 
